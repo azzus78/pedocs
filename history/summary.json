@@ -4,19 +4,19 @@
     "url": "http://bakti-hbs.pndev.net/",
     "icon": "https://favicons.githubusercontent.com/bakti-hbs.pndev.net",
     "slug": "hbs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 753,
-    "timeWeek": 760,
-    "timeMonth": 768,
-    "timeYear": 768,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 803,
+    "timeDay": 1025,
+    "timeWeek": 827,
+    "timeMonth": 803,
+    "timeYear": 803,
     "dailyMinutesDown": {
-      "2022-08-16": 0
+      "2022-08-16": 19
     }
   }
 ]
